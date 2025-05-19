@@ -1,4 +1,4 @@
-#!/usr/bin/env RScript
+#!/usr/bin/env Rscript
 
 # This R script can be used to visualize the output of the hyperparameter tuning step in train_RF.R
 
