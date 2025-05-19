@@ -9,6 +9,9 @@ The entire pipeline is made up of two smaller subworkflows. The `prepare` subwor
 ### [Code Ocean](https://codeocean.com/capsule/6980349/tree/v1)
 Using [our Code Ocean compute capsule](https://codeocean.com/capsule/6980349/tree/v1), you can execute [VarCA v0.2.1](https://github.com/aryam7/varCA/releases/tag/v0.2.1) on example data without downloading or setting up the project. To interpret the output of VarCA, see the output sections of the [`prepare` subworkflow](rules#output) and the [`classify` subworkflow](rules#output-1) in the [rules README](rules/README.md).
 
+## Citation
+Citation metadata for VarCA is provided in [CITATION.cff](CITATION.cff).
+
 # download
 Execute the following command or download the [latest release](https://github.com/aryam7/varCA/releases/latest) manually.
 ```
